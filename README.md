@@ -1,5 +1,6 @@
 # School-Managment-System
-School Managment System mobile app use flutter and backend use laravel 9 
+School Managment System mobile app use flutter and laravel 9 
+
 Requirment to this project
 
 1. Registration and Login in 
